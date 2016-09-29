@@ -1,0 +1,19 @@
+D=ay = 'Monday'
+play """
+triple-quote
+
+  F ^G C' F'
+  [=G'E] C' ^G
+  =G' [^G'^D] C'
+  ^G ^G' [=D'D]
+  ^A F D'
+  [^C=C'] ^G F
+  ^G21/3 C' ^G F
+  [=G^DG,][F,F^G]
+  [^GFF,]2
+"""
+say 'Goodmorning! Itś time too wake up'
+if Day is 'Monday'
+  say 'you have to go to school today'
+else
+  say 'Goodbye!'
