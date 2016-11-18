@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+    width: 310px;
+    padding: 14px;
+    border: 7px solid lightblue;
+    margin: 0;
+}
+</style>
+</head>
+<body>
+
+<h2>In-text citation: Example 1</h2>
+<div>Author(s) and date in parentheses</div>
+<h4> Author(s) and date is default in RefWorks citation tool</h4>
+<p>One of the few studies of autistic adults in family sitations (Krauss,Seltzer, & Jacobson, 2005)....</p>
+</body>
+</html>
