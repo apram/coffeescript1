@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.redtext {
+        color: red;
+}
+</style>
+</head>
+<body>
+<h1 class="blacktext">SVG 1</h1>
+<h1 class="redtext">SVG 2</h1>
+</body>
+</html>
